@@ -148,7 +148,7 @@ while True:
           prog_version = str(input())
           print("Enter what aligment of text you want [center/left] : ".rjust(105),end="")
           font_align = str(input())
-          print("Enter type of font you want [check readme file, then enter codename] : ".rjust(105),end="")
+          print("Enter type of font you want [check font_codenames.md file, then enter codename] : ".rjust(105),end="")
           font_type = str(input())
           print("Enter color of logo [any color] : ".rjust(105),end="")
           font_color = str(input())
