@@ -25,7 +25,7 @@ def mainmenu():
     printc("Fullscreen has the best view")
     printc("Note: Submenu Feature Coming Soon...\n")
     printc("---Select Options---")
-    printc("1. Create Program")
+    printc("1. Create Single Menu Program {Simple}")
     printc("0. Exit")
     printc("--------------------\n")
     print("Enter Number 1 or 0 : ".rjust(105),end="")
